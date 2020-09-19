@@ -4,7 +4,7 @@
 #### Licenses
 #### Tests
 
-
+## Summary
 This application is a software engineering team generator command line application. It prompts the user for information about the team manager and then information about the team members. The user input any number of team members, mixing engingeers and interns. This application also pass unit tests. When the user completes building the team, the application will generate an HTML file that displays a nicely formatted team roster based on the information provided by the user.
 
 ## Installation
@@ -15,6 +15,7 @@ This application is a software engineering team generator command line applicati
 * The dependencies are, [jest](https://jestjs.io/) for running the provided tests, and [inquirer](https://www.npmjs.com/package/inquirer) for collecting input from the user.
 
 ## Usage
+
 
 
 
