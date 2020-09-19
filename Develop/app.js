@@ -24,7 +24,7 @@ function createManager() {
         {
             type: "input",
             message: "What is Manager's ID?",
-            name: "ID"
+            name: "id"
         }, 
         {
             type: "input",
